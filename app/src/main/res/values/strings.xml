@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FamApp</string>
+    <string name="get_notes">GET NOTES</string>
+    <string name="add_notes">ADD NOTES</string>
+    <string name="back">BACK</string>
+    <string name="back1">BACK</string>
+    <string name="all_notes">All notes.</string>
+    <string name="display_notes">Display notes:</string>
+    <string name="title">Title</string>
+    <string name="note_text">Note text</string>
+    <string name="submit">SUBMIT</string>
+    <string name="status">Status</string>
+</resources>
